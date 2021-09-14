@@ -5,3 +5,5 @@ there is a slider for each motor and an on off button.
 
 The web page is built usign HTML and php for updating the database and fucnctinality. 
 there is a table in the database that include all the motors and their status. 
+
+The Chat Bot wattson is embedded 
